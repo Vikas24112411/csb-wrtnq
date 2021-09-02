@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vikas24112411.github.io/csb-wrtnq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vikas24112411.github.io/csb-wrtnq/static/js/main.3c9c6660.chunk.js",
+    "main.js.map": "https://vikas24112411.github.io/csb-wrtnq/static/js/main.3c9c6660.chunk.js.map",
+    "runtime-main.js": "https://vikas24112411.github.io/csb-wrtnq/static/js/runtime-main.564a54f6.js",
+    "runtime-main.js.map": "https://vikas24112411.github.io/csb-wrtnq/static/js/runtime-main.564a54f6.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://vikas24112411.github.io/csb-wrtnq/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://vikas24112411.github.io/csb-wrtnq/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://vikas24112411.github.io/csb-wrtnq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vikas24112411.github.io/csb-wrtnq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://vikas24112411.github.io/csb-wrtnq/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.564a54f6.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.3c9c6660.chunk.js"
+  ]
+}
